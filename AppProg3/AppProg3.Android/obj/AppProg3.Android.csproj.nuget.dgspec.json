@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kej\\source\\repos\\AppProg3\\AppProg3\\AppProg3.Android\\AppProg3.Android.csproj": {}
+    "C:\\Users\\JSFr.skp\\source\\repos\\AppProgrammering3\\AppProg3\\AppProg3.Android\\AppProg3.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kej\\source\\repos\\AppProg3\\AppProg3\\AppProg3.Android\\AppProg3.Android.csproj": {
+    "C:\\Users\\JSFr.skp\\source\\repos\\AppProgrammering3\\AppProg3\\AppProg3.Android\\AppProg3.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kej\\source\\repos\\AppProg3\\AppProg3\\AppProg3.Android\\AppProg3.Android.csproj",
+        "projectUniqueName": "C:\\Users\\JSFr.skp\\source\\repos\\AppProgrammering3\\AppProg3\\AppProg3.Android\\AppProg3.Android.csproj",
         "projectName": "AppProg3.Android",
-        "projectPath": "C:\\Users\\kej\\source\\repos\\AppProg3\\AppProg3\\AppProg3.Android\\AppProg3.Android.csproj",
-        "packagesPath": "C:\\Users\\kej\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kej\\source\\repos\\AppProg3\\AppProg3\\AppProg3.Android\\obj\\",
+        "projectPath": "C:\\Users\\JSFr.skp\\source\\repos\\AppProgrammering3\\AppProg3\\AppProg3.Android\\AppProg3.Android.csproj",
+        "packagesPath": "C:\\Users\\JSFr.skp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JSFr.skp\\source\\repos\\AppProgrammering3\\AppProg3\\AppProg3.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\kej\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JSFr.skp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\kej\\source\\repos\\AppProg3\\AppProg3\\AppProg3\\AppProg3.csproj": {
-                "projectPath": "C:\\Users\\kej\\source\\repos\\AppProg3\\AppProg3\\AppProg3\\AppProg3.csproj"
+              "C:\\Users\\JSFr.skp\\source\\repos\\AppProgrammering3\\AppProg3\\AppProg3\\AppProg3.csproj": {
+                "projectPath": "C:\\Users\\JSFr.skp\\source\\repos\\AppProgrammering3\\AppProg3\\AppProg3\\AppProg3.csproj"
               }
             }
           }
@@ -54,20 +54,21 @@
         }
       }
     },
-    "C:\\Users\\kej\\source\\repos\\AppProg3\\AppProg3\\AppProg3\\AppProg3.csproj": {
+    "C:\\Users\\JSFr.skp\\source\\repos\\AppProgrammering3\\AppProg3\\AppProg3\\AppProg3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kej\\source\\repos\\AppProg3\\AppProg3\\AppProg3\\AppProg3.csproj",
+        "projectUniqueName": "C:\\Users\\JSFr.skp\\source\\repos\\AppProgrammering3\\AppProg3\\AppProg3\\AppProg3.csproj",
         "projectName": "AppProg3",
-        "projectPath": "C:\\Users\\kej\\source\\repos\\AppProg3\\AppProg3\\AppProg3\\AppProg3.csproj",
-        "packagesPath": "C:\\Users\\kej\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kej\\source\\repos\\AppProg3\\AppProg3\\AppProg3\\obj\\",
+        "projectPath": "C:\\Users\\JSFr.skp\\source\\repos\\AppProgrammering3\\AppProg3\\AppProg3\\AppProg3.csproj",
+        "packagesPath": "C:\\Users\\JSFr.skp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JSFr.skp\\source\\repos\\AppProgrammering3\\AppProg3\\AppProg3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\kej\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JSFr.skp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -119,7 +120,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

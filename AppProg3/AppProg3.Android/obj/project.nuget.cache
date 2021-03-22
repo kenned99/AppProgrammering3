@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F+QSq4BmvujSAPQ9robjqVQGMEYerSbYV1I7AzOrdS39LFgDaN9hsMWKYEDNSHqXf2SdulAiU5q0AZ2LoYlxsQ==",
+  "dgSpecHash": "UOwBVpJ5U29btzRAnHjxcEIMZnD6USdGuqXNsylyB/I3iobSTFULpZ42e8IYpHkVznHrUM78jcQOyjap5np/sw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kej\\source\\repos\\AppProg3\\AppProg3\\AppProg3.Android\\AppProg3.Android.csproj",
+  "projectFilePath": "C:\\Users\\JSFr.skp\\source\\repos\\AppProgrammering3\\AppProg3\\AppProg3.Android\\AppProg3.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
