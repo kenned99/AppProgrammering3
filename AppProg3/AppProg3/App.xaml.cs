@@ -11,6 +11,7 @@ namespace AppProg3
 
         public App()
         {
+            //test
             InitializeComponent();
 
             DependencyService.Register<MockDataStore>();
