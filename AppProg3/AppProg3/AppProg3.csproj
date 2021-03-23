@@ -6,7 +6,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.0.23" />
     <PackageReference Include="Xamarin.Forms" Version="4.8.0.1451" />  
     <PackageReference Include="Xamarin.Essentials" Version="1.5.3.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Business Logic\Business Logic.csproj" />
+    <ProjectReference Include="..\..\..\CoreAppInterface\CoreAppInterface.csproj" />
+    <ProjectReference Include="..\..\..\DASQL\DASQL.csproj" />
+    <ProjectReference Include="..\..\..\INterfaces\Interfaces.csproj" />
   </ItemGroup>
 </Project>
